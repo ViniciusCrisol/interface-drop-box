@@ -4,6 +4,7 @@ import GlobalStyles from './styles/GlobalStyles';
 
 import Section from './components/Section';
 import SideMenu from './components/SideMenu';
+import MenuForm from './components/MenuForm';
 
 import data from './data';
 
@@ -35,7 +36,9 @@ const App: React.FC = () => (
       description={data[4].description}
     />
 
-    <SideMenu />
+    <SideMenu>
+      <MenuForm />
+    </SideMenu>
 
     <GlobalStyles />
   </>
