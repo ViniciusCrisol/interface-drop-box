@@ -1,4 +1,4 @@
-# 📌 Linkedin Dropbox 
+# 📌 Dropbox Interface
 
 ### 📋 This project was developed with ReactJs & Styled-Components.
 
