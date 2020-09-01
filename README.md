@@ -8,7 +8,7 @@
 
 ### Description 🚀
 
-- 📙 Github profile page clone;
+- 📙 Dropbox initial page clone;
 - 🚀 Class based: https://www.youtube.com/watch?v=VqP1ECc_j4M&t
 
 <p align="center">
